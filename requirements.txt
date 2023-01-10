@@ -1,5 +1,5 @@
 collections
-PIL import
+Pillow
 streamlit_option_menu
 pandas
 copy
