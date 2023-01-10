@@ -1,8 +1,6 @@
-collections
 Pillow
 streamlit_option_menu
 pandas
-copy
 streamlit
 datetime
 
