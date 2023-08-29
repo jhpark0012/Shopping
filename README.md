@@ -10,19 +10,19 @@
 
 
 ## Data
-- structure.png
+- **structure.png**
   
   마트의 구조를 그림으로 나타낸 data
   
-- s_1_to_5.png, s_6_to_10.png
+- **s_1_to_5.png, s_6_to_10.png**
 
   10개의 section을 나타낸 data
 
-- dataset_kor.csv, dataset_kor.pkl
+- **dataset_kor.csv, dataset_kor.pkl**
 
   structure.png, s_1_to_5.png, s_6_to_10.png 를 표로 나타낸 data
 
-- svg data
+- **svg data**
 
   web 이모티콘 data
 
