@@ -1,9 +1,6 @@
 # Shopping 
 [1st Toy Project] Shortest Shopping Path Web
 
-## Period
-22.01 ~ 22.02
-
 ## Background
 우리가 장을 볼 때, 장 볼거리를 미리 적어놓고 마트에 간다. 하지만 대부분 메모를 할 때 상품 카테고리별로 적지 않고 생각나는대로 적는다.
 
@@ -14,15 +11,19 @@
 
 ## Data
 - structure.png
+  
   마트의 구조를 그림으로 나타낸 data
   
 - s_1_to_5.png, s_6_to_10.png
+
   10개의 section을 나타낸 data
 
 - dataset_kor.csv, dataset_kor.pkl
+
   structure.png, s_1_to_5.png, s_6_to_10.png 를 표로 나타낸 data
 
 - svg data
+
   web 이모티콘 data
 
 
