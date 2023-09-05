@@ -2,7 +2,7 @@
 [1st Toy Project] Shortest Shopping Path Web
 
 ## Period
-22.01 ~ 22.02
+22.01.01 ~ 22.01.27
 
 ## Background
 우리가 장을 볼 때, 장 볼거리를 미리 적어놓고 마트에 간다. 하지만 대부분 메모를 할 때 상품 카테고리별로 적지 않고 생각나는대로 적는다.
