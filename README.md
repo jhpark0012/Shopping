@@ -15,19 +15,13 @@ To solve this problem, I would like to create a web that informs the shortest di
 ## Data
 - **web_img**
   
-  *structure.png*
+  *structure.png* : a graphic representation of the structure of a supermarket
   
-  a graphic representation of the structure of a supermarket
-  
-  *s_1_to_5.png, s_6_to_10.png*
-
-  data representing 10 sections
+  *s_1_to_5.png, s_6_to_10.png* : data representing 10 sections
 
 - **datasets**
   
-  *dataset_kor.csv, dataset_kor.pkl*
-
-  data tabulated with structure.png, s_1_to_5.png, and s_6_to_10.png
+  *dataset_kor.csv, dataset_kor.pkl* : data tabulated with structure.png, s_1_to_5.png, and s_6_to_10.png
 
 - **emoticon**
 
